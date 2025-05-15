@@ -1,0 +1,52 @@
+1. Overview
+ClickIT is a Chrome extension that allows users to save copied text into personalized, multi-level categories for easier reference and organization. Your privacy is important to us, and this policy outlines what data is collected and how it is handled.
+
+2. Data We Collect
+ClickIT does not collect or transmit any personal or sensitive user data to external servers. All data stays within your browser, using chrome.storage.local.
+
+Specifically, we store:
+
+Text manually selected and saved by the user
+
+The custom category path entered by the user
+
+Timestamps for saved entries
+
+We do NOT collect or access:
+
+Names, email addresses, or any identifiable personal information
+
+Financial, medical, or authentication-related data
+
+Location data or browsing history
+
+Keystrokes, passwords, or user behavior data
+
+3. How We Use Your Data
+The stored data is:
+
+Only accessible to you (the user)
+
+Used solely to display and organize your saved notes within the extension interface
+
+We do not share, sell, or use this data for advertising or analytics.
+
+4. Third-Party Services
+This extension does not use third-party APIs, trackers, or external servers. No user data is sent outside your browser.
+
+5. User Control & Data Deletion
+You may clear all saved data at any time by:
+
+Opening the extension popup
+
+Using Chrome’s “Clear Site Data” feature under browser settings
+
+6. Contact Us
+For questions or concerns, please contact:
+📧 [Your Email Address]
+
+7. Policy Updates
+This policy may be updated in the future. Any updates will be reflected on this page.
+
+By using ClickIT, you acknowledge that your data remains within your browser and is not used beyond the intended functionality of organizing saved text.
+
